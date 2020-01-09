@@ -3,18 +3,18 @@
     <img src="https://user-images.githubusercontent.com/59141234/71911924-9dc6d680-319a-11ea-9b06-554ea5cb4eb1.png" height="100px" />
 </p>
 <h3 align="center">
-    Python Codes
+    Python Intermediate Level
 </h3>
 <p align="center" >
-        <a href="https://github.com/siddhantshah1986/Python-Useful-Codes">
+        <a href="https://github.com/siddhantshah1986/Python-Intermediate">
             View Project
         </a>
         &nbsp;&nbsp;·&nbsp;&nbsp;
-        <a href="https://github.com/siddhantshah1986/Python-Useful-Codes/issues">
+        <a href="https://github.com/siddhantshah1986/Python-Intermediate/issues">
             Report Bug
         </a>
         &nbsp;&nbsp;·&nbsp;&nbsp;
-        <a href="https://github.com/siddhantshah1986/Python-Useful-Codes/issues">
+        <a href="https://github.com/siddhantshah1986/Python-Intermediate/issues">
             Request Feature
         </a>
 </p>
@@ -23,10 +23,10 @@
 ## Table of contents
 
 > * [Synopsis](#synopsis)
+> * [Topics](#Topics)
 > * [Coding Language](#Coding-Language)
 > * [Tools](#tool)
 > * [Contributing / Reporting issues](#contributing--reporting-issues) 
-> * [Topics](#Topics)
 > * [Show Your Support](#Show-Your-Support)
 > * [About Coder](#about-me)
 > * [Disclaimer](#Disclaimer)
@@ -36,6 +36,11 @@
 <p align="justify">
     In this repository, I will share few of the very basic yet important pythonic codes that can be used in almost every python project.
 <p>
+
+<!-- Topics -->
+## Topics
+- [Working With JSONs](https://github.com/siddhantshah1986/Python-Intermediate/tree/master/Working%20with%20Jsons)
+- [Working With Text Files](https://github.com/siddhantshah1986/Python-Intermediate/tree/master/Working%20with%20Jsons)
 
 <!-- Details of Coding Language -->
 ## Coding Language
@@ -47,15 +52,11 @@ Coding language in which the solution are provided here is:
 - **Visual Studio Code**
 - **Terminal**
 
-<!-- Topics -->
-## Topics
-- [Working With Jsons](https://github.com/siddhantshah1986/Python-Useful-Codes/tree/master/Working%20with%20Jsons)
-
 <!-- Asking for Contributions and Issues -->
 ## Contributing / Reporting issues
 Contributions, issues and feature request are welcome
 
-Please feel free to check [issue page](https://github.com/siddhantshah1986/Python-Codes/issues)
+Please feel free to check [issue page](https://github.com/siddhantshah1986/Python-Intermediate/issues)
 
 <!-- Asking for Supports -->
 ## Show Your Support

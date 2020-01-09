@@ -3,20 +3,20 @@
     <img src="https://user-images.githubusercontent.com/59141234/71911924-9dc6d680-319a-11ea-9b06-554ea5cb4eb1.png" height="100px" />
 </p>
 <h3 align="center">
-    Python Codes (JSONs)
+    Working with JSONs
 </h3>
 <p align="center" >
     Working with JSONs
     <br />
-        <a href="https://github.com/siddhantshah1986/Python-Useful-Codes/tree/master/Working%20with%20Jsons">
+        <a href="https://github.com/siddhantshah1986/Python-Intermediate/tree/master/Working%20with%20Jsons">
             View Project
         </a>
         &nbsp;&nbsp;·&nbsp;&nbsp;
-        <a href="https://github.com/siddhantshah1986/Python-Useful-Codes/issues">
+        <a href="https://github.com/siddhantshah1986/Python-Intermediate/issues">
             Report Bug
         </a>
         &nbsp;&nbsp;·&nbsp;&nbsp;
-        <a href="https://github.com/siddhantshah1986/Python-Useful-Codes/issues">
+        <a href="https://github.com/siddhantshah1986/Python-Intermediate/issues">
             Request Feature
         </a>
 </p>
@@ -71,7 +71,7 @@ null | None
 In order to fetch the data from the JSON file, we need to use the load function from the JSON library which takes the JSON object and returns it in the form of a dictionary.
 </p>
 
-[Checkout](https://github.com/siddhantshah1986/Python-Useful-Codes/tree/master/Working%20with%20Jsons/load_json.py "load_json.py") our coding file for the same.
+[Checkout](https://github.com/siddhantshah1986/Python-Intermediate/tree/master/Working%20with%20Jsons/load_json.py "load_json.py") our coding file for the same.
 
 <!-- dump() -->
 ### json.dump - Fetching data into JSON File
@@ -79,7 +79,7 @@ In order to fetch the data from the JSON file, we need to use the load function 
 Just like we can read data from the .json file, we can even push data into the .json file. For this purpose, we use the dump function of the JSON library. This function takes 2 arguments. 1st argument is the dictionary that we need to push into .json file and 2nd parameter is the file into which data needs to be pushed.
 </p>
 
-[Checkout](https://github.com/siddhantshah1986/Python-Useful-Codes/tree/master/Working%20with%20Jsons/dump_json.py "dump_json.py") our coding file for the same.
+[Checkout](https://github.com/siddhantshah1986/Python-Intermediate/tree/master/Working%20with%20Jsons/dump_json.py "dump_json.py") our coding file for the same.
 
 <!-- Working with JSON data -->
 ## Working with JSON data
@@ -93,7 +93,7 @@ Just like working on files, we can even work with JSON data. When we sent an API
 This function should be read as 'load string' because 's' in loads represents JSON string. This function takes in JSON string (or we can say string representation of any JSON object) and returns a Python object (dictionary).
 </p>
 
-[Checkout](https://github.com/siddhantshah1986/Python-Useful-Codes/tree/master/Working%20with%20Jsons/loads_json.py "loads_json.py") our coding file for the same.
+[Checkout](https://github.com/siddhantshah1986/Python-Intermediate/tree/master/Working%20with%20Jsons/loads_json.py "loads_json.py") our coding file for the same.
 
 <!-- dumps() -->
 ### json.dumps - Fetching data into JSON File
@@ -101,7 +101,7 @@ This function should be read as 'load string' because 's' in loads represents JS
 Just like in loads function, 's' in dumps also represents JSON string. This function takes a python object (dictionary) and returns JSON string.
 </p>
 
-[Checkout](https://github.com/siddhantshah1986/Python-Useful-Codes/tree/master/Working%20with%20Jsons/dumps_json.py "dumps_json.py") our coding file for the same.
+[Checkout](https://github.com/siddhantshah1986/Python-Intermediate/tree/master/Working%20with%20Jsons/dumps_json.py "dumps_json.py") our coding file for the same.
 
 <!-- Summary -->
 ## Summary
@@ -122,7 +122,7 @@ Coding language in which the solution are provided here is:
 ## Contributing / Reporting issues
 Contributions, issues and feature request are welcome
 
-Please feel free to check [issue page](https://github.com/siddhantshah1986/Python-Useful-Codes/issues)
+Please feel free to check [issue page](https://github.com/siddhantshah1986/Python-Intermediate/issues)
 
 <!-- Asking for Supports -->
 ## Show Your Support
