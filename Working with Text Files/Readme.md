@@ -29,7 +29,7 @@
 >   * [read()](#read--Reading-entire-data-from-the-file)
 >   * [readline()](#readline---reading-one-line-at-a-time-from-the-file)
 >   * [readlines()](#readlines---reading-all-lines-at-once-from-the-file)
-> * [Creating and Writing Text File](#Creating-and-Writing-to-Text-File)
+> * [Opening and Writing Text File](#Opening-and-Writing-to-Text-File)
 >   * [write()](#write---Writing-data-to-Text-File)
 > * [Other Useful Functions](#Other-Useful-Functions)
 >   * [tell()](#tell---Returns-the-position-of-cursor)
@@ -95,34 +95,72 @@ data = read_file.readlines()
 
 [Checkout](https://github.com/siddhantshah1986/Python-Intermediate/tree/master/Working%20with%20Text%20Files/open_readlines.py "open_readlines.py") our coding file for opening and reading text file.
 
-<!-- Working with JSON data -->
-## Creating and Writing to Text File
+<!-- Opening and Writing to Text File -->
+## Opening and Writing to Text File
 <p align="justify">
-
+In order to work with write mode, we use the 'w' as the 2nd parameter passed to the function open(). If the file mentioned as the 1st parameter doesn't not exists then a new file will be created. Also if the file exists then the content of the file will be overwritten with the new data.
 </p>
+
+```python
+with open('filePath', 'w') as write_file
+```
 
 <!-- write() -->
 #### write() - Writing data to Text File
 <p align="justify">
-
+This function writes the data in the file. If the files had data before been written then that data will be replaced by the new data
 </p>
 
-[Checkout](https://github.com/siddhantshah1986/Python-Intermediate/tree/master/Working%20with%20Jsons/loads_json.py "loads_json.py") our coding file for the creating and writing to text file.
+```python
+write_file.write(data)
+```
+
+[Checkout](https://github.com/siddhantshah1986/Python-Intermediate/tree/master/Working%20with%20Jsons/open_write.py "loads_json.py") our coding file for the creating and writing to text file.
+
+
+<!-- Opening and Appending to Text File -->
+## Opening and Appending to Text File
+<p align="justify">
+In order to work with write mode, we use the 'a' as the 2nd parameter passed to the function open(). If the file mentioned as the 1st parameter doesn't not exists then a new file will be created. Also if the file exists then the content of the file will be overwritten with the new data.
+</p>
+
+```python
+with open('filePath', 'w') as write_file
+```
+
+<!-- write() -->
+#### write() - Writing data to Text File
+<p align="justify">
+This function writes the data in the file. If the files had data before been written then that data will be replaced by the new data
+</p>
+
+```python
+write_file.write(data)
+```
+
+[Checkout](https://github.com/siddhantshah1986/Python-Intermediate/tree/master/Working%20with%20Jsons/open_append.py "loads_json.py") our coding file for the creating and writing to text file.
+
 
 ## Other Useful Functions
 <!-- tell() -->
 ### tell() - Returns the position of cursor
 <p align="justify">
-
+    This function returns the current position of the cursor when the file is read. 
 </p>
 
-[Checkout](https://github.com/siddhantshah1986/Python-Intermediate/tree/master/Working%20with%20Jsons/dumps_json.py "dumps_json.py") our coding file for the same.
+```python
+read_file.tell()
+```
 
 <!-- seek() -->
 ### seek() - positions cursor to given location
 <p align="justify">
-
+    This function position the the cursor to the index which is passed as the parameter when the fucntion is called. In below code, the cursor will move to the 50th position (49th index) in th file.
 </p>
+
+```python
+read_file.seek(50)
+```
 
 <!-- Details of Coding Language -->
 ## Coding Language
