@@ -58,7 +58,7 @@ In order to read the file, 1st we need to open the file. To open the file we use
 with open('filePath', 'r') as read_file
 ```
 
-[Checkout](https://github.com/siddhantshah1986/Python-Intermediate/tree/master/Working%20with%20Text%20Files/open_read.py "open_attribute.py") our coding file for opening text file and calling some of its attributes.
+[Checkout](https://github.com/siddhantshah1986/Python-Intermediate/blob/master/Working%20with%20Text%20Files/open_attributes.py "open_attribute.py") our coding file for opening text file and calling some of its attributes.
 
 <!-- read() -->
 #### read()- Reading entire data from the file
@@ -72,7 +72,7 @@ data = read_file.read(50)   # returns 1st 50 characters inside the file
 data = read_file.read(50)   # returns next 50 characters inside the file
 ```
 
-[Checkout](https://github.com/siddhantshah1986/Python-Intermediate/tree/master/Working%20with%20Text%20Files/open_read.py "open_read.py") our coding file for opening and reading text file.
+[Checkout](https://github.com/siddhantshah1986/Python-Intermediate/blob/master/Working%20with%20Text%20Files/open_read_file.py "open_read.py") our coding file for opening and reading text file.
 
 <!-- readline() -->
 #### readline() - reading one line at a time from the file
@@ -84,7 +84,7 @@ This method returns one line of the file at a time. Once the line is returned, t
 data = read_file.readline()
 ```
 
-[Checkout](https://github.com/siddhantshah1986/Python-Intermediate/tree/master/Working%20with%20Text%20Files/open_readline.py "open_readline.py") our coding file for opening and reading text file.
+[Checkout](https://github.com/siddhantshah1986/Python-Intermediate/blob/master/Working%20with%20Text%20Files/open_readline_file.py "open_readline.py") our coding file for opening and reading text file.
 
 <!-- readline() -->
 #### readlines() - reading all lines at once from the file
@@ -96,7 +96,7 @@ This method returns entire data inside the file in the form of a list with each 
 data = read_file.readlines()
 ```
 
-[Checkout](https://github.com/siddhantshah1986/Python-Intermediate/tree/master/Working%20with%20Text%20Files/open_readlines.py "open_readlines.py") our coding file for opening and reading text file.
+[Checkout](https://github.com/siddhantshah1986/Python-Intermediate/blob/master/Working%20with%20Text%20Files/open_readlines.py "open_readlines.py") our coding file for opening and reading text file.
 
 <!-- Opening and Writing to Text File -->
 ## Opening and Writing to Text File
@@ -118,7 +118,7 @@ This function writes the data in the file. If the files had data before been wri
 write_file.write(data)
 ```
 
-[Checkout](https://github.com/siddhantshah1986/Python-Intermediate/tree/master/Working%20with%20Jsons/open_write.py "open_write.py") our coding file for the opening and writing to text file.
+[Checkout](https://github.com/siddhantshah1986/Python-Intermediate/blob/master/Working%20with%20Text%20Files/open_write.py "open_write.py") our coding file for the opening and writing to text file.
 
 
 <!-- Opening and Appending to Text File -->
@@ -132,7 +132,7 @@ with open('filePath', 'a+') as append_file
     append_file.write(data)
 ```
 
-[Checkout](https://github.com/siddhantshah1986/Python-Intermediate/tree/master/Working%20with%20Jsons/open_append.py "open_append.py") our coding file for the opening and appending to text file.
+[Checkout](https://github.com/siddhantshah1986/Python-Intermediate/blob/master/Working%20with%20Text%20Files/open_append.py "open_append.py") our coding file for the opening and appending to text file.
 
 <!-- Working with Binary Files -->
 ## Working with Binary Files
@@ -150,7 +150,7 @@ with open('filePath', 'wb') as write_file
     write_file.write(data)
 ```
 
-[Checkout](https://github.com/siddhantshah1986/Python-Intermediate/tree/master/Working%20with%20Jsons/binary_operation.py "binary_operation.py") our coding file for the working with binary files.
+[Checkout](https://github.com/siddhantshah1986/Python-Intermediate/blob/master/Working%20with%20Text%20Files/binary_operation.py "binary_operation.py") our coding file for the working with binary files.
 
 
 ## Other Useful Functions
