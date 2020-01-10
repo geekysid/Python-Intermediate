@@ -86,7 +86,7 @@ with open("oscar_combined.csv", "r") as csv_file:
         print(row)
 ```
 
-[Checkout](https://github.com/siddhantshah1986/Python-Intermediate/blob/master/Working%20with%20CSV%20Files/DictWriter_csv.py "DictWriter_csv.py") our coding file for understaing how DictReader() works.
+[Checkout](https://github.com/siddhantshah1986/Python-Intermediate/blob/master/Working%20with%20CSV%20Files/DictReader_csv.py "DictReader_csv.py") our coding file for understaing how DictReader() works.
 
 <!-- Opening and Writing to Text File -->
 ## Writing to CSV File
@@ -124,7 +124,7 @@ with open("writer_csv_test_Dict.csv", "w") as csv_file:
     csv_dictwriter.writerow({'Year': 1977, 'Age': 60, 'Name': 'Peter Finch', 'Movie': 'Network', 'Gender': "Male"},)    # converting dictionary into proper format and writing into csv file
 ```
 
-[Checkout](https://github.com/siddhantshah1986/Python-Intermediate/blob/master/Working%20with%20CSV%20Files/writer_csv.py "writer_csv.py") our coding file for understaing how DictWriter() works.
+[Checkout](https://github.com/siddhantshah1986/Python-Intermediate/blob/master/Working%20with%20CSV%20Files/DictWriter_csv.py "DictWriter_csv.py") our coding file for understaing how DictWriter() works.
 
 <!-- Details of Coding Language -->
 ## Coding Language
