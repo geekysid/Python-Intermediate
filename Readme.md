@@ -42,6 +42,7 @@
 - [Working With JSONs](https://github.com/siddhantshah1986/Python-Intermediate/tree/master/Working%20with%20Jsons)
 - [Working With Text Files](https://github.com/siddhantshah1986/Python-Intermediate/tree/master/Working%20with%20Text%20Files)
 - [Working With CSV Files](https://github.com/siddhantshah1986/Python-Intermediate/tree/master/Working%20with%20CSV%20Files)
+- [Working With CSV Files](https://github.com/siddhantshah1986/Python-Intermediate/tree/master/Sending%20Emails)
 
 <!-- Details of Coding Language -->
 ## Coding Language
