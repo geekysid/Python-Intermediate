@@ -43,6 +43,9 @@
 - [Working With Text Files](https://github.com/siddhantshah1986/Python-Intermediate/tree/master/Working%20with%20Text%20Files)
 - [Working With CSV Files](https://github.com/siddhantshah1986/Python-Intermediate/tree/master/Working%20with%20CSV%20Files)
 - [Sending Emails](https://github.com/siddhantshah1986/Python-Intermediate/tree/master/Sending%20Emails)
+- [Requests APIs](https://github.com/siddhantshah1986/Python-Intermediate/tree/master/Requests)
+- [Web Scrapping - BeautifulSoup](https://github.com/siddhantshah1986/Python-Intermediate/tree/master/Web%20Scraping%20-%20BeautifulSoup)
+
 
 <!-- Details of Coding Language -->
 ## Coding Language
