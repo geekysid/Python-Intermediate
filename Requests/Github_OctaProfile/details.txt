@@ -1,0 +1,39 @@
+https://api.github.com/users/:username
+    name : 'name'
+    website : 'blog'
+    Username : 'login'
+    avatar : 'avatar_url'
+    location : 'location'
+    url : 'html_url'
+    bio : 'bio'
+    email : 'email'
+    created : 'created_at'
+    last updated : 'updated_at'
+    number of followers : 'followers'
+    number of followings : 'following'
+    repos details : 'repos_url'
+    events details: 'events_url'
+    
+
+https://api.github.com/users/siddhantshah1986/repos
+    returns list of repos
+    name of repos : 'name'
+    description of repos : 'description'
+    repos owner :  'login'
+    privacy : 'private'
+    total stars in repos : 'stargazers_count'
+    totals watchers of the repos : 'watchers_count'
+    repo api url : 'url'
+    repo html url : 'html_url'
+    repo fork url : 'forks_url' (details of all forking)
+    repo language url : 'languages_url' details of languages used in repos
+    repo contributor url : 'contributors_url' details of contributors in repos
+    repo subscribers url : 'subscribers_url' details of subscriber in repos
+    repo commit url : 'commits_url' details of commit in repos
+    repo issues url : 'issues_url' details of issues in repos
+    un resolved issues : 'open_issues'
+    license : 'license'
+    forks_count : 'forks_count'
+    created : 'created_at'
+    last updated : 'updated_at'
+    

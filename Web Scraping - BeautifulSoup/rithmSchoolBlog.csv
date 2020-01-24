@@ -1,0 +1,361 @@
+SL. NoHeading,Blog Link,Desc,Date
+1,React Hooks! - useEffect,https://www.rithmschool.com/blog/blog/react-hooks-use-effect,"
+Welcome back to the Rithm School series on React hooks.  In this blog post, I'll introduce useEffect, a very useful and potentially confusing new hook in React.  useEffect can be used in place of three lifecycle methods: componentDidMount, componentDidUpdate, and componentWillUnmount.  The details of how useEffect replaces all three methods is what we will be exploring in this blog post.
+A working knowledge of some basics of hooks (especially some understanding of useState) is important for this post.  If you haven't read my earlier post introducing hooks, or if you want a refresher, check it out here.
+Continue Reading","January 14, 2020"
+2,It’s 2020: Where are the Women in Tech?,https://www.rithmschool.com/blog/blog/it-is-2020-where-are-the-women-in-tech,"
+2019 is coming to a close and our staff conversations at Rithm are taking on a more reflective quality: how did we do this year, both as an organization and as individuals? Where did we excel and, more importantly, where could we improve? From curriculum and culture, to the impact of our space and the overall student experience, everything is fair game.
+These end-of-year conversations include a recurrent topic that tends to swing (seemingly) unpredictably from cohort to cohort throughout the year: the number of women enrolled as students.
+Now, the dearth of women employed in technical roles is not a revelation; about 25% of software engineers worldwide identify as women. And at the risk of sounding trite, this is not a simple problem to solve. From the way that girls are socialized to feel about math and science, to a general lack of awareness and understanding of what computer science is, to more nuanced cultural and social factors that result in women leaving tech all together later on, countless articles have been written from every angle imaginable.
+Everywhere we turn, we’re confronted with disheartening figures and statistics, but for the purposes of this post, we’ll forgo the rehashing of the current landscape. The landscape is what it is in this moment. What we’re most interested in is what we can do within the coding bootcamp sector to move the needle.
+Continue Reading","December 20, 2019"
+3,Implementation Intentions: The Secret Weapon to Achieve Your Goals,https://www.rithmschool.com/blog/blog/implementation-intentions,"
+It’s that time of the year again, where everyone is making ambitious goals they will most likely never follow through with. You have probably read about how to set SMART goals and how writing your goals down makes you more likely to achieve them. I recommend both of those strategies, but don’t stop there. Do you set yearly goals? Do you achieve them?
+Continue Reading","December 12, 2019"
+4,An Introduction to GraphQL - Mutations,https://www.rithmschool.com/blog/blog/an-introduction-to-graphql-mutations,"
+Welcome! If you haven't seen our first GraphQL tutorial on queries, make sure to check that out first. In this post, we'll talk more about GraphQL and focus on mutations. We previously saw how to access or read data using queries, now let's see how to change or ""mutate"" information using mutations! Make sure that you have a fundamental understanding of GraphQL and queries before continuing on.
+Continue Reading","December 02, 2019"
+5,Student Interview: Jennifer + Luke on Company Projects,https://www.rithmschool.com/blog/blog/student-interview-jennifer-luke,"
+At Rithm, we believe that one of the best ways to prepare students for jobs as web developers is by giving them opportunities to work on real-world projects. Working on personal projects can be fun, but working in a team or on an existing code base gives students insights into the day-to-day challenges of a developer that they might not otherwise learn. Our 13th cohort is wrapping up their company projects with JumpOffCampus, a new platform forging partnerships between Universities and safe, secure, off-campus housing. Jennifer Ma and Luke Nemy have been working on the same team using React, Ruby on Rails, and Google Maps API to incorporate a live map and rental listings with filters based on a user’s selected location. We asked them to share their experience working together with us:
+Continue Reading","November 07, 2019"
+6,React Hooks! - An Introduction,https://www.rithmschool.com/blog/blog/react-hooks-intro,"
+Hooks are here! At Rithm School we are constantly reviewing our curriculum and making sure that we are up to date on the latest technologies.  When we notice a new technology or technique rising in popularity (and also becoming a common question that interviewers ask), we have the ability to quickly incorporate it into what we are teaching.
+Since the introduction of hooks into React, we have clearly seen a strong interest in the community to use hooks in new React projects.  My goal is to give you a brief introduction to hooks and show you how they can be used instead of using class components with setState.
+Continue Reading","October 22, 2019"
+7,An Introduction to GraphQL - Queries,https://www.rithmschool.com/blog/blog/an-introduction-to-graphql-queries,"
+Welcome! If you're reading this, you have probably been told that GraphQL is one of, if not the best thing since the internet. Or maybe you've just been working with REST for so long that you think there's a better way. Regardless of where you're coming from, we'll be introducing what GraphQL is, how it acts as an alternative to REST, and how to get started with queries.
+Continue Reading","October 15, 2019"
+8,Alumni Spotlight: Sandy Cao,https://www.rithmschool.com/blog/blog/alumni-spotlight-sandy,"
+With a background in fine art, proudly toting her senior superlative of “Most Artistic”, Sandy Cao didn’t consider herself the typical candidate for a coding bootcamp. She hadn’t worked a full-time job in nearly 3 years (as a business analyst at a fintech startup in New Jersey) before joining us as a student at Rithm School. However, during her time with that job, she taught herself SQL and the thrill of completing code stuck with her. Sandy took some time to discuss her job search, her experience at Rithm, and her wisdom for other women looking to break into the tech scene.
+Continue Reading","October 10, 2019"
+9,Student Interview: Pair Programming And Company Projects,https://www.rithmschool.com/blog/blog/student-interview-pair-programming-and-company-projects,"
+At Rithm, we believe that one of the best ways to prepare students for jobs as web developers is by giving them opportunities to work on real-world projects. Working on personal projects can be fun, but working in a team or on an existing code base gives students insights into the day-to-day challenges of a developer that they might not otherwise learn. Our 12th cohort is wrapping up their company projects with Numero, a modern financial platform that Members of Congress, Senate, and Presidential candidates rely on to manage the $4.5 billion in payment processing, accounting, and compliance for their political campaigns. Gabe and Joanna have been working as a pair, as well have Andrew and Chantal. We asked them to share their experience working together with us:
+Continue Reading","September 03, 2019"
+10,Getting Acquainted With A Production Code Base,https://www.rithmschool.com/blog/blog/getting-up-to-speed-on-a-production-code-base,"
+At Rithm School, company projects have started.  If you’re not familiar with company projects, it’s a three week portion of our curriculum where students work with instructors and outside companies on a real production code base. It can be a challenging time for both students and instructors as we’re all working together on problems and code that we’ve never seen before.  But the challenge is definitely worth while.  It’s a great tool for teaching good coding practices and how to work with a team.  By the end of the three weeks, the students have a lot more confidence that they can contribute to a production code base.
+Continue Reading","June 18, 2019"
+11,"Staff Spotlight - Zach DeRossette, Career Coach",https://www.rithmschool.com/blog/blog/staff-spotlight-zach-derossette,"
+We’re excited to have Zach DeRossette join the Rithm team as our Career Coach! You can find him meeting with and supporting our students and alum throughout their job search. Here we learn a little bit more about Zach, his role on the team and his advice to job seekers (including spend less time applying online!)
+Continue Reading","May 22, 2019"
+12,Student Interview: Lena Ryoo on Company Projects,https://www.rithmschool.com/blog/blog/student-interview-lena-ryoo,"
+At Rithm, we believe that one of the best ways to prepare students for jobs as web developers is by giving them opportunities to work on real-world projects. Working on personal projects can be fun, but working in a team or on an existing code base gives students insights into the day-to-day challenges of a developer that they might not otherwise learn. Our 10th cohort recently completed their company projects, so we spoke with Lena to get their perspective on the experience.
+Continue Reading","May 15, 2019"
+13,Debugging Like a Scientist,https://www.rithmschool.com/blog/blog/debugging-like-a-scientist,"
+When you're first learning how to code, error messages can be intimidating. Because of this, beginners sometimes ignore error messages entirely. Instead, they will favor more of a ""guess-and-check"" approach to fixing bugs. While we don't encourage this approach at Rithm, we recognize that in the context of solving small, isolated problems, it can be successful. But when it comes to working on larger applications, professional engineers need a more sophisticated set of tools to fix problems.
+Fortunately, one of the most successful strategies for fixing errors is also one of the oldest: applying the scientific method. In this post, I'd like to review the scientific method, and highlight how you can use it to solve programming problems more quickly.
+Continue Reading","April 29, 2019"
+14,The Benefits of Code Reviews,https://www.rithmschool.com/blog/blog/benefits-of-code-reviews,"
+Code reviews can be a common practice for many developers: another engineer, often more experienced with the language, library, or code base being used, meets with the author-developer to read through their work, ask questions, and provide suggestions for improvement.
+This process can be a positive experiment for many, but often, it can be challenging to be on the receiving end of a review. These can descend into demands for  needless uniformity of style (""no! it's super-important to align your code just so"") or they can create uncomfortable or harmful power dynamics between peers about whose style or ideas are ""better."" At their very worst, code reviews can merely provide cover for biased viewpoints or microaggressions directed toward developers who may have less power in organizations.
+While we recognize that not all parts of this practice are always helpful, we do encourage a lot of code reviews for our students here at Rithm. We think that, especially for newer developers in a class, these can provide useful feedback and lessons that can be difficult to get from lectures or books, and can also be hard to notice just from reading other code.
+Continue Reading","March 29, 2019"
+15,Three More JavaScript Mistakes That Beginners Make,https://www.rithmschool.com/blog/blog/three-more-js-mistakes-that-beginners-make,"
+Despite its best intentions, JavaScript is not the most beginner friendly language. After working with thousands of beginners, here are a few common mistakes we see with applicants and students.
+A little while back, we wrote a post on the top four javascript mistakes beginners make. In this post, we'll be adding a few more we've seen to help you better prepare when learning the basics!
+Let’s imagine we have the following object,
+When accessing a key in an object, there are two possible ways to go about it.
+dot notation
+bracket notation
+Knowing when to use which one is essential, so here is a good rule of thumb to follow.If you know with 100% certainty what the key is - always use dot. If you are not 100% sure what the key will be, you must use bracket.
+Continue Reading","March 07, 2019"
+16,Alumni Spotlight: Miranda Howitt,https://www.rithmschool.com/blog/blog/alumni-spotlight-miranda,"
+Before joining us for Rithm’s 6th cohort, Miranda worked as an executive assistant and office manager in the tech industry, after getting her BA in Psychology from NYU. A San Francisco native, she also is a volleyball player and a self-identified graphic novel enthusiast. Miranda took some time to discuss her job search, her experience at Rithm, and her steadfast friendship with Whiskey the dog.
+Continue Reading","February 12, 2019"
+17,Alumni Spotlight: Kristen Lingwood,https://www.rithmschool.com/blog/blog/alumni-spotlight-kristen,"
+Before Kristen discovered programming, she was an elementary school teacher, and then a stay at home parent. When she’s AFK, she loves reading (If something has to do with magic or outer space, she’s probably read it or wants to read it), puzzles, games and travel. Her idea of a great party involves tabletop games, wine, and puns so cringe worthy that even your dad would groan. Kristen was able to take some time from her busy schedule to share more about her experience as a student, offer her advice for new students, and explain how the skills she learned at Rithm School will be used in her new position as a Software Engineer at Maven Technologies.
+Continue Reading","February 06, 2019"
+18,Alumni Spotlight: Tyler Ketron,https://www.rithmschool.com/blog/blog/alumni-spotlight-tyler,"
+Before joining us for Rithm’s 7th cohort, Tyler Ketron got his hands dirty (and sometimes still misses it!) as a hydrogeologist at government agencies and a consulting firm. When he’s not busy at his new job as a Front End Engineer, you can find Tyler competitively weight lifting, raising chickens in his backyard, or flexing his classical musician skills with the oboe and piano. Luckily, we were able to catch some time to sit down with Tyler and discuss his journey from growing up in a small town in Tennessee to becoming a software engineer.
+Continue Reading","January 30, 2019"
+19,Avoiding Burnout,https://www.rithmschool.com/blog/blog/avoiding-burnout,"
+In May of 2018, Blind (an anonymous community work app) released a survey that revealed that close to 60 percent of employees surveyed considered themselves burned out. With over 11,000 respondents from the biggest tech companies in the game, it verified what those in the trenches were already well-aware of: burnout in tech is ubiquitous.
+Continue Reading","January 09, 2019"
+20,Student Interview: Sarah + Zac on Company Projects,https://www.rithmschool.com/blog/blog/student-interview-sarah-zac,"
+At Rithm, we believe that one of the best ways to prepare students for jobs as web developers is by giving them opportunities to work on real-world projects. Working on personal projects can be fun, but working in a team or on an existing code base gives students insights into the day-to-day challenges of a developer that they might not otherwise learn. Our 8th cohort is nearing the end of working on these projects, so we spoke with our students Sarah Kaplan and Zac Bennet to get their perspective on the experience.
+Continue Reading","December 18, 2018"
+21,A New Tuition Option: We Make Money Only When You Do,https://www.rithmschool.com/blog/blog/new-tuition-option,"
+When we first started Rithm in 2016, we made a bet. We believed that there would be people willing to pay a bit more for an immersive coding program that placed the quality of the education and student experience first.
+Two years later, we’ve proven that you can build a successful program that focuses on small class sizes and experienced instructors. Our graduates have gone on to work at top-tier companies like Pinterest and Palantir. 74% of our graduates find work within 90 days, and with a median salary of $110,000 (details here).
+But there are still challenges. To date, our biggest difficulty has been making the program as affordable as possible without sacrificing quality. Our pricing has always been $24,000, which unfortunately has made our program inaccessible to many potential students. That’s why we’re excited to announce that starting with our first class next year, we’ll be adding a deferred tuition option. This means that you won’t have to pay any tuition until you find a job as an engineer.
+Continue Reading","December 11, 2018"
+22,MongoDB is Easy,https://www.rithmschool.com/blog/blog/mongodb-is-easy,"
+MongoDB is a popular NoSQL database provider. Here at Rithm School we used to teach MongoDB in conjunction with Node.js. Recently, however, we have switched our Node.js curriculum to utilize PostgreSQL. For a taste of what that looks like, check out Joel's blog post or our free online curriculum on relational databases with Node/Express.
+Much of the reason for this curriculum change is that relational databases, the SQL language, and ORMs can take a long time to master and are more widely-used across the industry. We decided therefore it would be best if our students could focus on mastering SQL and relational databases (the dominant database tech for the last 40 years) rather than split that time between a completely different technology that has only recently risen in popularity.
+But another significant reason that I would like to argue is: MongoDB really isn't that hard to learn and master! If you're comfortable with JavaScript, JSON, and Node.js/Express.js (which all of our graduates are), then teaching yourself MongoDB can be a cakewalk. Especially if you have this blog post! 😉
+Continue Reading","December 06, 2018"
+23,Meet The Instructor: Alissa Renz,https://www.rithmschool.com/blog/blog/meet-the-instructor-alissa-renz,"
+We are elated to have Alissa Renz join the Rithm instruction team! You can find her teaching and supporting students throughout the course as they take the leap into full-stack web development. Here we learn a little bit more about Alissa, her role on the team and her advice to all aspiring web developers (starting with, ""you got this!"")
+Continue Reading","November 14, 2018"
+24,Error Handling in Express,https://www.rithmschool.com/blog/blog/error-handling-express,"
+Express is a flexible framework for building server-side JavaScript web servers using Node. We teach it here at Rithm School, and students often enjoy getting a chance to use their JavaScript skills on both the front-end and back-end, using Express to build API servers.
+One area that can be confusing for new users is how to handle errors well using Express. Express is so flexible that it's not clear how to make a simple, general purpose strategy for handling different kinds of errors.
+To help with this, here is a simple, new-learner-friendly system for making and handling errors in Express.
+Continue Reading","November 05, 2018"
+25,Four Tips for Moving Faster as a Developer,https://www.rithmschool.com/blog/blog/developer-productivity,"
+When lecturing, I'm commonly asked how I move so quickly between windows, between tabs and in applications like Terminal or the browser. In this post, I’d like to briefly highlight four essential tips and tricks for becoming a faster and more productive developer.
+Continue Reading","October 16, 2018"
+26,Five Tips to Manage the Emotional Side of a Coding Program,https://www.rithmschool.com/blog/blog/five-tips-emotional-management,"
+A lot of people who decide to come like a program like Rithm's spend a lot of time trying to prepare as much as possible for the technical curriculum. We'll often get e-mails from accepted students before the program starts asking what else they can learn or study so that they'll be ahead of the curve when the program begins.
+While that sort of planning and dedication is admirable, there's another aspect to immersive coding programs like ours that gets comparatively less attention, though it's no less important. I'm referring to the emotional weight of a full-time, in-person accelerated program. In this post, I'd like to outline some of the emotional challenges that students face, and provide some tips to help you address those challenges head on.
+Continue Reading","October 08, 2018"
+27,Does Emotional Intelligence Get You Paid More in Tech?,https://www.rithmschool.com/blog/blog/emotional-intelligence,"
+Until recently, many people thought the sole source of success boiled down to their intelligence (IQ). However, research has been emerging since the late 90’s that there is a definitive link between career success and emotional intelligence (EQ). Intelligence is your ability to learn, which remains the same whether you’re 15 or 50 years old. EQ is not a steadfast metric, it’s a flexible set of skills that can be learned and improved with practice. You may be saying to yourself “but my technical skills will speak for themselves - why should I care about this?”
+Continue Reading","October 03, 2018"
+28,Post-Outcomes Blog: Top 3 Insights for Job-Seekers,https://www.rithmschool.com/blog/blog/insights-job-seekers,"
+Last Friday, Rithm School's seventh cohort finished the outcomes section of the course and graduated! 🎉 🎓 This was Rithm's second iteration of our in-house outcomes program, during which we had quite a few industry guest speakers come speak with students. Our guest speakers hailed from a wide range of companies from small startups like Desmos to massive corporations like Netflix. Most had substantial experience interviewing candidates, and all had sound advice to share with our students about the job search process. In this article, I have compiled what I believe to be the top three job search insights based on that experience.
+Continue Reading","September 27, 2018"
+29,"Staff Spotlight - Megan Lane, Operations & Events Associate",https://www.rithmschool.com/blog/blog/staff-spotlight-megan-lane,"
+Meg Lane, our operations and events extraordinaire, has her thumbprint on every square inch of Rithm School’s financial district office. You can thank her keeping up our office space (and for our awesome tiki-themed kitchen decor!), running all of our free events, and most recently taking over all of our alumni activities. Here we learn a little bit more about Meg, her role on the team and what sweet treats she may have hidden around the office.
+Continue Reading","September 11, 2018"
+30,Different Approaches to Using Relational Databases with Express,https://www.rithmschool.com/blog/blog/different-approaches-express,"
+JavaScript is increasingly popular for developing backend servers, often using the Express library with Node. While many tutorials show using Node/Express with NoSQL databases, like MongoDB, these kind of databases are often not as good for common, relational data requirements. Many projects would benefit from a more scalable, transactional relational database.
+However, this leads to developer design decisions: should I write SQL queries directly in my code? Should I use an abstraction layer? Should I use an Object-Relational Mapper?
+In this post, we'll explore a few approaches to the same problem. We'll use a tiny application, but develop it for each approach, so you can get an early sense of how it would be to work in these different styles.
+Continue Reading","August 28, 2018"
+31,The Job Funnel,https://www.rithmschool.com/blog/blog/the-job-funnel,"
+No matter where you are in your career, looking for a new job is an incredibly stressful time. It's common to experience feelings of inadequacy, rejection, and general imposter syndrome.
+This is a natural consequence of company hiring practices, which typically are engineered to minimize the rate of false positives (e.g. hiring someone unqualified for the job). Knowing this doesn't always ease the pain of not landing that dream job, though.
+Even so, it can be helpful to try to zoom out and take a high level, objective look at the job search process. That's what I'd like to do here. My hope that by exploring a model of the job search, you'll be able to more effectively budget your time and more quickly find success.
+Continue Reading","August 20, 2018"
+32,Alumni Spotlight: Daniel Szabo,https://www.rithmschool.com/blog/blog/alumni-spotlight-daniel,"
+Daniel came to Rithm School with an impressive background as a university lecturer and researcher. Outside of his interest in coding, his love of cars and driving started at the age of three when he disengaged his family car’s parking brake and caused a traffic accident. Fortunately, his driving record has improved since then! Daniel’s job search is winding down (congratulations!), so he was able to take some time to share more about his experience with us here at Rithm School:
+Continue Reading","August 08, 2018"
+33,Rithm School Interview FAQs,https://www.rithmschool.com/blog/blog/rithm-interview-faqs,"
+Welcome to Rithm School, prospective students! This post details Frequently Asked Questions we get about the Rithm School interview process as well as key information about the interview itself. If you are looking to get into Rithm in the near future, hopefully this gives you more insight as to how best to prepare and what exactly to expect on your interview date.
+Continue Reading","August 01, 2018"
+34,BPPE Approval and Outcomes Numbers,https://www.rithmschool.com/blog/blog/bppe-approval-and-outcomes-numbers,"
+We’re ecstatic to report that Rithm School has been officially approved by the Bureau of Private Postsecondary Education (BPPE). Since 2010, the BPPE has served a regulatory function in California, ensuring that postsecondary institutions are legitimate organizations that meet certain requirements in order to operate within the state. We’ve been working with the BPPE on our approval since our founding in 2016, and this approval shows that Rithm meets the standards for educational quality, integrity, financial stability, and rigor of curriculum as determined by the California agency.
+Continue Reading","July 25, 2018"
+35,What’s New in Python 3.7: Data Classes,https://www.rithmschool.com/blog/blog/whats-new-in-python-3-7,"
+In June, the Python Software Foundation released the newest version of Python,3.7. In this post, we'll look at one of the nicest new features, ""data classes"".
+Continue Reading","July 11, 2018"
+36,Five Tips for Getting Yourself Unstuck,https://www.rithmschool.com/blog/blog/five-tips-for-getting-yourself-unstuck,"
+I've worked with hundreds of budding engineers and mathematicians. And while every student is unique, everyone I've worked with has at least one thing in common: at some point, they've all been stuck on a problem.
+I can relate; I've been stuck many times as well! And while it's easy to tell students to persevere, this kind of general advice is rarely helpful. In this post, I'd like to outline a few concrete strategies to turn to when you're stuck on a problem.
+Continue Reading","June 22, 2018"
+37,A Roadmap for Learning How To Code - Part 3,https://www.rithmschool.com/blog/blog/roadmap-for-learning-how-to-code-03,"
+This blog post is next chapter of the ""Roadmap for Learning How to Code"" series for beginners, check out Part 1 and Part 2 if you haven't yet!
+In this chapter we are going to learn the fundamentals of web scripting using JavaScript.
+Continue Reading","June 13, 2018"
+38,Student Interview: Paula + Miranda on Company Projects,https://www.rithmschool.com/blog/blog/student-interview-paula-miranda,"
+At Rithm, we believe that one of the best ways to prepare students for jobs as web developers is by giving them opportunities to work on real-world projects. Working on personal projects can be fun, but working in a team or on an existing code base gives students insights into the day-to-day challenges of a developer that they might not otherwise learn. Our 6th cohort is nearing the end of working on these projects, so we spoke with our students Miranda Howitt and Paula Goyanes to get their perspective on the experience.
+Continue Reading","June 05, 2018"
+39,Five Essential Rules when Job Searching,https://www.rithmschool.com/blog/blog/five-essential-rules-when-job-searching,"
+As we begin our outcomes period, we’ve started to have one-on-one conversations with our students about how they can be successful in the job search. This part of the program is always the most stressful, but at the same time anxiety can be a powerful motivator. The job search is never easy, but I wanted to outline a couple of rules and dispel some rumors about the job search.
+Continue Reading","May 31, 2018"
+40,Outcomes: A Preview,https://www.rithmschool.com/blog/blog/outcomes-a-preview,"
+This week is an exciting time in the life of our cohort and Rithm School as a whole. Our students are wrapping up their assigned work as developers for our company partnerships and transitioning into the next stage of the process: the outcomes, job-search portion. For the first time, Rithm School will be doing this work in-house and officially taking over the full cohort experience.
+We’ve gradually built toward this path over the past six months by listening to prior experiences of Rithm alumni, taking into account industry-wide recruiting experiences and approaches, and also advising previous cohorts as they pursue new roles, interview processes, negotiations, and offers. Each of these conversations and experiences has provided us with a greater sense of how we can best equip our students to excel in their job search.
+Continue Reading","May 22, 2018"
+41,The Benefit of Low-Abstraction Frameworks for Scaffolding Learning,https://www.rithmschool.com/blog/blog/low-abstraction-frameworks,"
+Here at Rithm, we teach both Javascript and Python. Most of our course is taught in Javascript, but two weeks focus on Python, particularly focusing on building web application servers for the backend.
+During the period, we teach Flask, a Python framework for building web applications. Out of the box, Flask includes features such as:
+Flask is a popular library for this kind of development, but it's not the dominant or most featured library in this space. Django is used widely in industry, and has far more features out of the box (including things like deeply built-in support for connecting to databases, an ""Object Relational Mapper"" for querying and updating those databases, a system for handling user registration/login/authentication, and more).
+Given that Django is also very popular and even more featureful, why do we teach Flask at Rithm School?
+Continue Reading","May 16, 2018"
+42,Are Coding Schools Worth the Cost?,https://www.rithmschool.com/blog/blog/are-coding-schools-worth-the-cost,"
+We talk to a lot of potential students here at Rithm. Many of them are incredibly passionate about learning how to code, and value Rithm's unique program, including our focus on small class sizes and exposure to real-world projects.
+Even so, there's a fair amount of competition in our space, and potential students are right to shop around before finding the right fit. And while a lot of the value we think we add is hard to quantify, for some students the choice of which school to attend really boils down to a numbers game. For those people, I've cooked up a little tool to help you make a decision about which school to attend (or whether you should attend one at all). Let's take a look!
+Continue Reading","April 25, 2018"
+43,A Roadmap for Learning How To Code - Part 2,https://www.rithmschool.com/blog/blog/roadmap-for-learning-how-to-code-02,"
+This blog post is the sequel to Part 1.
+In this chapter we are going to dive into CSS so we can learn the principles of how to layout things on a web page and understand how to build layouts!
+Continue Reading","April 10, 2018"
+44,Meet The Instructor: Joel Burton,https://www.rithmschool.com/blog/blog/meet-the-instructor-joel-burton,"
+Joel Burton has recently joined the Rithm Team as part of our instruction team, teaching and supporting students throughout the course as they take the leap into full-stack web development. Here we learn a little bit more about Joel, his role on the team and his advice to all aspiring web developers.
+Continue Reading","March 27, 2018"
+45,Alumni Spotlight: Anna-Brit Schlaepfer,https://www.rithmschool.com/blog/blog/alumni-spotlight-anna-brit,"
+Anna-Brit came to Rithm School (and graduated last month!) after dabbling in self-taught coding for years. Anna-Brit took some time from their current job search to share more about their experience with us at Rithm, advice for students, and their perspective on their company project with Groupmuse:
+Continue Reading","March 19, 2018"
+46,The Art of Outreach,https://www.rithmschool.com/blog/blog/the-art-of-outreach,"
+Recently, we've decided to grow the services we offer to students. One of the most significant changes involves our transition to bring the outcomes component of the curriculum in-house. More on that here if you’re interested.
+With this transition comes a great sense of excitement, namely with our ability to take ownership around the entirety of the student experience. We’re actively shaping the outcomes portion to have even more continuity with the technical instruction and ultimately prepare our students earlier, throughout Rithm’s first ten weeks, to more seamlessly transition into their company projects and job search. That said, another component of the process that we find exciting is in crafting curriculum. And this week’s blog post is aimed at highlighting a section of that curriculum: outreach.
+Continue Reading","February 28, 2018"
+47,Intro to VS Code,https://www.rithmschool.com/blog/blog/vscode,"
+The most important tool for developers is that which lets us author code: the development environment. At Rithm School, we think it’s essential for all of our students to be on the same page as our instructors in using the same development environment. Thus, we are going to recommend using Visual Studio Code for our current and future students. Here’s why.
+Continue Reading","February 20, 2018"
+48,Debugging Like a Developer,https://www.rithmschool.com/blog/blog/debugging-like-a-developer,"
+When you're working closely with students every day, you get really good at debugging. I pretty much see bugs all day everyday. Some are standard issues that I came across when I was learning the material myself, while others are really strange edge cases I may never have discovered on my own.
+Helping students squash bugs is great, but what's even better is teaching them the skills they need to squash bugs on their own. In this post, I'd like to highlight a few of the techniques you can use to more effectively debug your code, and how to ask the right questions to help you track down the source of your problem.
+Continue Reading","February 06, 2018"
+49,Student Interview: Allie + Stephen on Company Projects,https://www.rithmschool.com/blog/blog/student-interview-allie-stephen,"
+At Rithm, we believe that one of the best ways to prepare students for jobs as web developers is by giving them opportunities to work on real-world projects. Working on personal projects can be fun, but working in a team or on an existing code base gives students insights into the day-to-day challenges of a developer that they might not otherwise learn. Our 5th cohort is nearing the end of working on these projects, so we spoke with our students Allie Antkowiak and Stephen Carrera to get their perspective on the experience.
+Continue Reading","January 31, 2018"
+50,A Roadmap for Learning How To Code - Part 1,https://www.rithmschool.com/blog/blog/roadmap-for-learning-how-to-code-01,"
+In this blog post series, we will build a concrete roadmap to help you get started understanding the basics of programming. More importantly, we’ll help you figure out if coding is something you really want to do!
+Like many of our blog posts, this is just one opinion and one way of going about things. We believe it’s most rewarding to be able to build things that you can see in the browser and easily share with others, so the first place to start with that is by learning some HTML and CSS. You’d be surprised how much you can get done with just a little bit of markup and styling on the page!
+Continue Reading","January 24, 2018"
+51,Computer Science Degree vs. Coding Bootcamp Tradeoffs,https://www.rithmschool.com/blog/blog/computer-science-vs-coding-bootcamp,"
+The difference between a computer science degree versus a coding bootcamp is something I often get asked about. I have put quite a bit of thought into it, since I have a second B.S. in Computer Science via OSU’s online professional CS program and have been teaching at Rithm for nearly 6 months.
+Disclaimer: the opinions expressed in this blog are based on my experience with Rithm School and Oregon State University, respectively.
+Continue Reading","January 10, 2018"
+52,New Year's Resolutions: Developer Edition,https://www.rithmschool.com/blog/blog/new-years-resolutions,"
+Happy 2018! We're excited to continue training exceptional developers in the coming year.
+Part of being a great developer involves continued learning. And there's no better time to make some commitments to your own growth than the new year. With that in mind, here are some ideas for new year's resolutions that can help you become an even better engineer in 2018.
+Continue Reading","January 02, 2018"
+53,Student Spotlight: Sean Mangosing,https://www.rithmschool.com/blog/blog/student-spotlight-sean-mangosing,"
+Sean Mangosing is a current student at Rithm School who is making the transition from working as a web designer for a small design firm in Emeryville to full-stack web development. Outside of his rigorous hours at Rithm, you can find Sean spending time with his family at their home in Point Richmond, listening to a wide range of music on Spotify, or getting some good old fashioned line dancing in at a country bar.
+Continue Reading","December 20, 2017"
+54,"New Year, New Outcomes",https://www.rithmschool.com/blog/blog/new-year-new-outcomes,"
+We would like to officially announce that starting with our February 2018 cohort, Rithm School will be overseeing our student placements and outcomes in-house with our very own Career Services Manager! We are very excited about this development. However, it means we will no longer be working with Outco to help place our students. This was a decision we arrived at very carefully, and in the name of transparency we would like to share our process and plans with the community.
+Continue Reading","December 11, 2017"
+55,Five Tips for Landing a Job as a Bootcamp Grad,https://www.rithmschool.com/blog/blog/five-tips-for-landing-a-job,"
+During my tenure as a tech lead at Emsi, I had the opportunity to screen and interview a few dozen candidates for junior front-end engineering positions, and I looked at quite a few bootcamp grad applications. I want to be candid up front: I had a slight bias towards people with computer science degrees from universities (I also had one myself) over bootcamp graduates. The CS degree indicated they had spent several years thinking about challenging technical problems and could probably pick up frontend skills quickly -- even though the bootcamp grads, in theory, would be better-prepared for immediate frontend / web development type work. I was also concerned that bootcamp grads might be able to make web apps look pretty, but when it came to whiteboarding out a new algorithm (seldom as that might happen on the job), they might be all but useless compared to a CS major.
+Continue Reading","December 05, 2017"
+56,"Our Newest Scholarship, Diversity, and How Rithm Supports Your Coding Education",https://www.rithmschool.com/blog/blog/our-newest-scholarship,"
+We have seen the value in providing scholarships to highly motivated web development students over the course of our tenure. The first official scholarship we offered was in late 2016, where we awarded 50% of tuition costs to mission-driven individuals with a positive impact on their community. Since then we have offered many partial scholarships based on merit and need, and one full Diversity Scholarship.
+On the tails of our first scholarship, we wanted to honor future women developers alongside Women’s History Month. In March of 2017 we awarded partial scholarships to all women who were accepted to our third cohort. We were thrilled with the results of this scholarship initiative, as it resulted in a classroom comprised of 60% innovative and brilliant women.
+Continue Reading","November 28, 2017"
+57,Why Pay For School?,https://www.rithmschool.com/blog/blog/why-pay-for-school,"
+At Rithm, we recently released three new online courses on our website: Intermediate React.js, Flask and SQL Fundamentals, and Intermediate Flask. No other coding school that we’re aware of has released so much of its curriculum online at absolutely no cost. We also recently released a course on Udemy that covers a lot of intermediate and advanced material for aspiring web developers.
+At the same time, we continue to offer a full-time paid immersive program here in San Francisco. To some, these two activities -- offering free curriculum online along with paid courses in-person -- can seem incompatible. Why charge for classes when so much of the content being taught is free?
+Continue Reading","November 21, 2017"
+58,"This Holiday Season, Give Back to Tech for Good",https://www.rithmschool.com/blog/blog/this-holiday-season-give-back-to-tech-for-good,"
+It’s November already, can you believe it? The year is almost over, and we all know what that means: the holidays are here! A joyful stretch of ugly sweaters, raucous company parties, big family gatherings and probably way too much food.
+Continue Reading","November 07, 2017"
+59,Meet The Instructor: Michael Hueter,https://www.rithmschool.com/blog/blog/meet-the-instructor-michael-hueter,"
+Michael Hueter recently made the move from Idaho to sunny San Francisco to join us as a lead instructor here at Rithm School. When he’s not busy acclimating to his new city or working with students, he enjoys hiking, backpacking and playing the bass, guitar and piano.
+Continue Reading","October 24, 2017"
+60,Student Spotlight: Adele Landers,https://www.rithmschool.com/blog/blog/student-spotlight-adele-landers,"
+Adele Landers is a current student at Rithm School who worked as a pharmacist for the past 6 years. She graduated from the University of Missouri-Kansas City as a Doctor of Pharmacy. The first time she dabbled with coding in middle school, she built a website to showcase her pet chickens! Outside of her rigorous hours at Rithm, she enjoys skiing, camping and reading.
+Continue Reading","October 17, 2017"
+61,Do Web Developers Need to be Good at Math?,https://www.rithmschool.com/blog/blog/do-web-developers-need-to-be-good-at-math,"
+People often ask me about how I transitioned into a career in technology. When they find out I’m a former academic who transitioned from a career as a mathematician, I’ll often get asked whether my background made the transition easier and to what extent I draw from my mathematical training when I’m coding. For any aspiring web developers out there, I’d like to answer this question in two parts.
+Continue Reading","October 10, 2017"
+62,Top 4 JavaScript Mistakes That Beginners Make,https://www.rithmschool.com/blog/blog/top-four-js-mistakes-that-beginners-make,"
+When you first start learning JavaScript, it’s very easy to get overwhelmed by all of the concepts and terms thrown at you! In this post, we’ll be going over four common mistakes that beginners make when learning JavaScript.
+Something we see many students doing quite frequently when getting started, is returning from a function too early. When you first learn about functions, you’ll learn that the return keyword is used to provide output from a function. However, when a function encounters the return keyword, that function will end. See if you can spot what’s wrong with this function:
+Continue Reading","September 27, 2017"
+63,Interview With An Alumni: Katie Krieger,https://www.rithmschool.com/blog/blog/interview-with-an-alumni-katie-krieger,"
+Katie came to Rithm School with an impressive background in Environmental Engineering. While she loved the field, Katie felt limited by her skillset and wanted to focus more on her interest in technology. She began to consider software engineering as a career that could allow for more hands-on problem solving.
+While researching bootcamp options, Katie was drawn to the environment at Rithm School, particularly the small class sizes and individual attention from instructors.
+Katie talks more about her experience in an interview with SwitchUp. She also offers her advice for students, and explains how the skills she learned at Rithm School will be used in her new position as a Software Engineer at ClassPass.
+Continue Reading","September 19, 2017"
+64,What Makes a Successful Student?,https://www.rithmschool.com/blog/blog/what-makes-a-successful-student,"
+When prospective students come in for an interview at Rithm, I’m sometimes asked if I’ve noticed any qualities that distinguish particularly successful students. While our admissions process does a fairly good job of assessing students’ preparedness - both technically and behaviorally - there are certain qualities that are hard to suss out over a couple of relatively short interviews.
+There are definitely a few common qualities that seem to be relatively common among successful students, in programming or any other technical discipline. Here are my top four.
+Continue Reading","September 05, 2017"
+65,5 Topics To Master Before Learning React,https://www.rithmschool.com/blog/blog/5-topics-to-master-before-learning-react,"
+Welcome! If you're reading this, you have probably been told that React is the best thing since the internet.  Or maybe you're a little React curious: you're coming from another front-end framework like Ember, Backbone, or Angular and wondering if there may be a better way.  Perhaps you have thousands of lines of messy code written in jQuery and you know that there must be a better way.  Unfortunately, this article will not be making grand statements about how React is the answer to all of your problems.  However, you will be getting some suggestions and resources that will help you to build a solid foundation before you dive into the world of React development.
+Continue Reading","August 29, 2017"
+66,Soft Skills That Actually Matter In Tech,https://www.rithmschool.com/blog/blog/soft-skills-that-actually-matter-in-tech,"
+According to CareerBuilder, 77% of employers value soft skills just as much as hard skills. You can be writing some of the best code out there, but it will amount to little if you don’t work well with others. There are tons of people interviewing for boot camps and joining the masses in their post-graduation job search. Having strong communication and people skills are what’s going to reward you that winning competitive edge.
+What soft skills can you improve on that actually matter?
+Continue Reading","August 22, 2017"
+67,What I Wish Someone Had Told Me Before I Learned To Code,https://www.rithmschool.com/blog/blog/what-i-wish-someone-had-told-me-before-i-learned-to-code,"
+As a self-taught developer, I can easily remember feeling overwhelmed by how and where to begin learning how to code. Below are some lessons that I’ve taken away from my early days learning how to code and subsequent years teaching hundreds of students across SF.
+Focus on quality, not quantity
+When I first decided I wanted to learn how to code, I tried to tackle all languages and technologies at once.  I knew that I needed to learn JavaScript, but I was also fascinated by mobile and backend development. I spent hours learning PHP and JavaScript, watching Objective C tutorials, and building small web and mobile applications.
+Continue Reading","August 15, 2017"
+68,Rithm School Scholarship Winner Interview: Michelle Huynh,https://www.rithmschool.com/blog/blog/diversity-scholarship-winner-interview-michelle-huynh,"
+This past spring, Rithm School offered our first ever Diversity Scholarship to our community of aspiring web developers. We received many impressive applications, and after careful consideration, Michelle Huynh was awarded a full scholarship to our web development training program in San Francisco. Here, Michelle tells us more about her background and journey in web development, how she has set herself up for success in the field, and what she hopes to do next.
+Continue Reading","August 08, 2017"
+69,A Bootcamp Bubble?,https://www.rithmschool.com/blog/blog/a-bootcamp-bubble,"
+There's been a lot of buzz lately about the recent high-profile closing of two coding schools: Dev Bootcamp and The Iron Yard. Depending on where you get your news, the back-to-back shuttering of these schools is either an anomaly in an otherwise healthy industry, or it's the first indication that the industry Dev Bootcamp pioneered is now ending.
+Neither of these extremes totally captures the reality; the truth is more complicated. While I was certainly surprised to hear about these schools winding down, the challenges they described in their public statements definitely resonated.
+In this post, I'd like to dig into one of the biggest challenges I've seen discussed. It's tied to one of Silicon Valley's favorite buzzwords, but is also frequently at odds with high-quality education. That word is scale.
+Continue Reading","August 01, 2017"
+70,Student Interview: Julia Hazer on Company Projects,https://www.rithmschool.com/blog/blog/student-interview-julia-hazer,"
+At Rithm, we believe that one of the best ways to prepare students for jobs as web developers is by giving them opportunities to work on real-world projects. Working on personal projects can be fun, but working in a team or on an existing code base gives students insights into the day-to-day challenges of a developer that they might not otherwise learn. Towards the end of these projects, we spoke with student Julia Hazer to get her perspective on the experience.
+Continue Reading","July 18, 2017"
+71,Five Tips to Get Into Rithm,https://www.rithmschool.com/blog/blog/five-tips-to-get-into-rithm,"
+It’s no secret that getting into a coding school is highly competitive. The most common question I receive from potential students is, ""What can I do to stand out during the admissions process?"" Here at Rithm, we have a particularly tailored admissions process to snag one of our coveted 15 seats, which can undoubtedly be nerve-wracking when applying.
+Fortunately, we have all the resources you need to make it through our admissions process. I’ve seen over a thousand applications and have compiled these tips to get your foot in the proverbial coding door:
+Continue Reading","July 11, 2017"
+72,Problem Solving Strategies: Look Back and Refactor,https://www.rithmschool.com/blog/blog/problem-solving-strategies-06,"
+It can be tempting to think that your work is done after you've solved a problem, especially if the problem has been a difficult one. But as Polya writes in How To Solve It, reflection is an important part of effective problem solving:
+Even fairly good students, when they have obtained the solution of the problem and written down neatly the argument, shut their books and look for something else. Doing so, they miss an important and instructive phase of the work. By looking back at the completed solution, by reconsidering and reexamining the result and the path that led to it, they could consolidate their knowledge and develop their ability to solve problems...There always remains something to do; with sufficient study and penetration, we could improve any solution, and, in any case, we can always improve our understanding of the solution.
+In this final post, we'll take a look at this final strategy from the standpoint of programming.
+Continue Reading","June 27, 2017"
+73,Student Interview: Shriya Nevatia,https://www.rithmschool.com/blog/blog/student-interview-shriya-nevatia,"
+Shriya Nevatia is a current student at Rithm who previously worked at two small startups in Community & Operations. She has a Computer Science degree from Tufts and is very involved in women in tech communities, including the Spectra hackathon and Ladies Storm Hackathons Facebook group. In her spare time she enjoys dancing, reading, painting, and exploring San Francisco.
+Continue Reading","June 19, 2017"
+74,"Scholarships, Diversity and How Rithm Supports Your Coding Education",https://www.rithmschool.com/blog/blog/scholarships-diversity-education,"
+Here at Rithm School, we have seen value in providing scholarships to highly motivated web development students. The practice of offering scholarships is not only a way to support learners working with tight budgets, but also a method of engaging and motivating nontraditional students of all backgrounds and experience levels who are interested in breaking into tech.
+Continue Reading","May 23, 2017"
+75,Demystifying Deep Learning,https://www.rithmschool.com/blog/blog/demystifying-deep-learning,"
+Self-driving cars, voice activated home automation,  text translation,  automated style transfer:  Applications for deep learning seem to be everywhere nowadays.  It has proven to be a powerful, effective tool for solving very difficult problems.  And, in this humble author's opinion, we are just starting to scratch the surface of what we can do with the technology.
+But wait a minute, what is deep learning?  If you're new to programming, or even if you're an experienced programmer who is new to machine learning, you may be a little lost when it comes to deep learning. In fact, until recently, I felt a little lost myself.
+Continue Reading","May 11, 2017"
+76,"Staff Spotlight: Angelina Davis, Admissions Manager",https://www.rithmschool.com/blog/blog/staff-spotlight-angelina-davis,"
+Angelina Davis has recently joined the Rithm Team as our Admissions Manager, supporting students throughout the application and admissions process as they decide to take the leap into full-stack web development. Here we learn a little bit more about Angelina, her role on the team and the secret to her guacamole recipe.
+Continue Reading","May 02, 2017"
+77,Student Interview: Torre Taylor on Company Projects,https://www.rithmschool.com/blog/blog/student-interview-torre-taylor,"
+At Rithm, we believe that one of the best ways to prepare students for jobs as web developers is by giving them opportunities to work on real-world projects. Working on personal projects can be fun, but working in a team or on an existing codebase gives students insights into the day-to-day challenges of a developer that they might not otherwise learn.
+Last month, our students spent several weeks working on two company projects: one in partnership with the BAND Lab at UCSF, and another with a venture capital firm in San Francisco. Towards the end of these projects, we spoke with student Torre Taylor to get his perspective on the experience.
+Continue Reading","April 18, 2017"
+78,Becoming a Self-Reliant Developer,https://www.rithmschool.com/blog/blog/becoming-a-self-reliant-developer,"
+Part of being a strong developer means having the willingness and the drive to perpetually continue learning. In an ever-evolving industry where the rate of iteration and innovation is high, you will need the ability to teach yourself new conventions, design patterns, and technologies to stay relevant in a competitive marketplace.
+Does this mean that as a newer coder you should opt for a self-directed program? Would a program with less oversight from instructors teach you to be a stronger and more self-reliant developer? My answer is: absolutely not.
+Continue Reading","April 06, 2017"
+79,You Should Be Going To Tech Conferences,https://www.rithmschool.com/blog/blog/you-should-be-going-to-tech-conferences,"
+I have to be honest.  In the past, I did not like going to conferences.  I found them boring and not too productive.  The main reason for all this dislike was the type of conference I used to go to.  I started out my career in the academic world. I was in a computer science PhD program at Georgia Tech, and I can safely say that I did not find the conferences that I attended to be very helpful.  I ""dropped out"" of grad school with a masters and then became a software engineer at Amazon. Amazon did not have a culture of sending developers to conferences, so again, I avoided them.
+Continue Reading","March 30, 2017"
+80,Student Interview: Andrew Mundy,https://www.rithmschool.com/blog/blog/student-interview-andrew-mundy,"
+Andrew Mundy is a late twenty-something somehow living in beautiful San Francisco. He likes bikes, jazz, and his gin martini stirred, with a twist. You can catch him in the wild either basking in Dolores or frequenting local watering holes.
+Andrew is also a student in Rithm School’s current full-time web development program. Here, Andrew talks about his experience thus far and what to expect from the bootcamp experience.
+Continue Reading","March 23, 2017"
+81,She’s Been Persisting: 6 Women in Tech Organizations You Should Know About,https://www.rithmschool.com/blog/blog/shes-been-persisting,"
+So many amazing things happened on International Women’s Day that it was difficult to keep track, in a good way. For me, this about sums it up, but here’s a list of other awesome things we did across the country and the world.
+To keep up the momentum of uplifting and empowering women in tech during Women’s History Month, I wanted to highlight a few organizations who have already made major moves to expand access, equality, and inclusion in the space. Read on to get inspired, motivated, and involved in your community.
+Continue Reading","March 16, 2017"
+82,Bootcamp Curious? Perspective from a Recovering Academic,https://www.rithmschool.com/blog/blog/bootcamp-curious-perspective-from-a-recovering-academic,"
+I’ve been a student for most of my life. By the time I completed my Ph.D. in 2012, I’d spent a decade as a student in higher education (four years as an undergraduate, and 6 years as a graduate student).
+Now I teach at a program that trains people for web development careers in just a few months. While I’m no longer in academia, I’m also skeptical of claims that coding schools reduce the need for college graduates with computer science degrees. Both options have a lot to offer, but they’re fundamentally different and serve different needs. In this post, I’d like to share some of my own experiences teaching and learning in both environments.
+Continue Reading","March 09, 2017"
+83,Problem Solving Strategies: Use Tools Strategically,https://www.rithmschool.com/blog/blog/problem-solving-strategies-05,"
+The ecosystem around programming is filled with tools intended to make writing code easier. And indeed, developing a workflow that makes sense to you is essential to becoming a productive programmer and problem-solver.
+Using the right tool for the job can help illuminate blocks when you're solving a problem, and suggest ways to a solution. But if you use the wrong tool, or don't know how to use the many tools available, your work can come grinding to a halt. This brings us to one of our most important strategies: using tools strategically.
+Continue Reading","February 02, 2017"
+84,Problem Solving Strategies: Solve a Simpler Problem,https://www.rithmschool.com/blog/blog/problem-solving-strategies-04,"
+We've talked about how to initially approach a problem by understanding what it's asking and exploring concrete examples. We've also discussed developing a plan to solve the problem, by breaking it down into smaller and more manageable pieces.
+But planning is sometimes easier said than done. After you've broken a problem down, you may find that one of the components is quite difficult. For particularly challenging problems, you may not even know how to break down the problem at all. In these situations, it may help to turn to our next problem solving strategy: solve a simpler problem.
+Continue Reading","January 19, 2017"
+85,Your Roadmap to Learning JavaScript,https://www.rithmschool.com/blog/blog/your-roadmap-to-learning-javascript,"
+In this day and age, everyone is trying to learn how to code. Between a 27% increase in job outlook (through 2024) and everything becoming automated, having programming know-how has never been more valuable. From a professional standpoint, you increase your value by knowing how to program, as companies are realizing the benefits of having their employees know how to manipulate basic code. From a personal standpoint, you gain the ability to make side projects become a reality.
+While there are plenty of benefits to learning how to code, we’ve noticed there isn’t a clear roadmap for getting there. The majority of what’s out there only covers the basics or requires payment.
+Below we list what we believe to be the best bang-for-buck resources available.
+Continue Reading","January 05, 2017"
+86,What A Small Class Size Meant to Me,https://www.rithmschool.com/blog/blog/what-a-small-class-size-meant-to-me,"
+As it turns out, not everyone who starts a boot camp will finish. Last year, I graduated from a six-month immersive program. My cohort began at eighteen students and dropped to eleven. By the last week, only five of us consistently showed up to class.  That kind of attrition is unusual, but those unique circumstances really highlighted how much of an impact class size can have on student experience.
+Continue Reading","December 19, 2016"
+87,Student Interview: Greg,https://www.rithmschool.com/blog/blog/student-interview-greg,"
+Our first cohort is finishing up their projects at Rithm before they move on our program’s third stage: Outco. We’ve seen first-hand the work, time, and effort these guys have put into absorbing everything that’s been thrown at them. From learning theory to working on real-world projects, we’re extremely proud of everything they’ve accomplished thus far.
+Continue Reading","December 19, 2016"
+88,How to Prepare for the Rithm Technical Interview,https://www.rithmschool.com/blog/blog/how-to-prepare-for-the-rithm-technical-interview,"
+One of the most common questions we get from prospective students is, “how do I prepare for the technical interview?” In this post, we’ll outline what we look for and what you need know in order to be successful. But first, let’s make sure you understand how the interview works.
+Continue Reading","December 08, 2016"
+89,Problem Solving Strategies: Break It Down,https://www.rithmschool.com/blog/blog/problem-solving-strategies-03,"
+Once you have a clear understanding of the problem at hand and have convinced yourself of what the result should be in a few specific cases, it's time to think about a more general approach. Very often looking at specific examples is enough to generate a roadmap for a solution. But if you find yourself still struggling to come up with a solution, here's a strategy that can help.
+Continue Reading","December 05, 2016"
+90,Problem Solving Strategies: Explore Concrete Examples,https://www.rithmschool.com/blog/blog/problem-solving-strategies-02,"
+In How To Solve It, mathematician George Polya breaks the problem-solving process down into four pieces: understanding the problem, making a plan, executing the plan, and reflecting on the solution. We've already talked about understanding the problem, but the next parts of this process could benefit from a little unpacking.
+Whether you're building a new feature for an application with millions of users, or in the middle of a whiteboard interview, it's essential that you have a plan before you start coding. But planning often requires forethought and insight that comes from experience. Because of this, beginners often feel trapped in a sort of catch-22: they need experience in order to formulate plans effectively, but they need to plan effectively in order to solve problems and gain experience!
+Continue Reading","November 28, 2016"
+91,Problem Solving Strategies: Understand the Problem,https://www.rithmschool.com/blog/blog/problem-solving-strategies-01,"
+One of the biggest challenges for the aspiring web developer has little to do with the details of programming. As an engineer, you'll be tasked with understanding and solving problems on a regular basis; regardless of the specific technologies you use, then, strong problem-solving ability is critical.
+And while your problem-solving skills will certainly develop naturally as you write code, it's worth being a bit more intentional, and think about problem-solving strategies in general. In this series, we'll take a look at some common problem-solving strategies, and adapt them to the life of a web developer. (Note: many of these strategies are adapted from George Polya, whose book How To Solve It is a great resource for anyone who wants to become a better problem solver.)
+Continue Reading","November 21, 2016"
+92,Why Do You Want To Code?,https://www.rithmschool.com/blog/blog/why-do-you-want-to-code,"
+You’ve heard that we are currently in the midst of a coding “revolution.” You’ve seen the job market prediction for the next twenty years. You’re looking to grow yourself to develop a more valuable skill set.
+And that has brought you here.
+Continue Reading","November 15, 2016"
+93,Essential Tools for Web Development,https://www.rithmschool.com/blog/blog/essential-tools-for-web-development,"
+[Updated July 11, 2018]
+Every developer's workflow is slightly different. And because people can have such strong opinions about the best text editor, web browser, and tooling, finding the workflow that works for you isn't always easy.
+However, once you've found the tools that are right for you, and know how to use those tools successfully, the rate at which you can program can increase tremendously. And after working with a number of students, we've got our own opinions about tools a beginning developer should absolutely have. In this post, we'd like to offer up the technologies that we think are the most helpful, as well as instructions on how to install those tools (or access them, in the even that they're already installed). Please note: the installation process assumes that you are using a Mac with OSX.
+Continue Reading","October 21, 2016"
+94,Five Reasons to Learn JavaScript,https://www.rithmschool.com/blog/blog/five-reasons-to-learn-javascript,"
+Over the past few years, JavaScript has exploded in popularity. According to StackOverflow's 2016 developer survey, JavaScript is the most popular technology for full-stack, front-end, and back-end developers, and isn't showing any signs of losing momentum. So how did we get here, and what does it mean for someone who wants to learn to code? In this article, we'll trace back some of the history, project a little bit into the future, and offer up some reasons why, if you're interested in programming, you should give JavaScript a shot.
+Continue Reading","September 29, 2016"
+95,Free Course Prep,https://www.rithmschool.com/blog/blog/free-course-prep,"
+We've been talking to a number of potential students over the past few weeks, and have had some great conversations with students from a variety of backgrounds. As we've been having these conversations, though, a challenge has emerged. With so many resources available for people who want to learn on their own, and with the emergence of short courses like First Step Coding aimed at people who are on the fence about a career change into web development, people are coming to us from different backgrounds and with varying levels of experience. So how can we try to level that playing field, and assess who would be a good fit for our program as objectively as possible?
+Continue Reading","September 20, 2016"
+96,Building Better Job Support,https://www.rithmschool.com/blog/blog/building-better-job-support,"
+One of the nice things about working at a coding school compared to a more traditional educational environment is that we don't need to grapple with some of the headier philosophical questions surrounding the purpose of education. For us, the purpose is clear: get students job-ready in 16 weeks.
+With that clarity of purpose also comes a straightforward metric to measure our own success: are students getting jobs? If students leave our program and can find and retain jobs as developers, that's a pretty clear signal that we're on the right track.
+Continue Reading","September 14, 2016"
+97,Why Another Bootcamp?,https://www.rithmschool.com/blog/blog/why-another-bootcamp,"
+Hi! Welcome to the Rithm blog. We're a team of passionate educators and developers who have decided to open a web development school in San Francisco.
+To the casual observer, this may seem like a strange choice. After all, there are already plenty of options for the aspiring web developer. Do some quick research and you'll find all kinds of programs: 12-week programs, 24-week programs, 36-week programs, and more; full-time programs and part-time programs; online programs and in-person programs. The list goes on, and is particularly long in the Bay Area. So why throw our collective hats in the ring?
+Continue Reading","September 06, 2016"
