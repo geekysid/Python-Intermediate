@@ -1,0 +1,21 @@
+Create a BOT on telegram:
+    --> Search for 'BotFather' with blue tick and use it to creta a bot. It will give you a Token
+
+
+Ngrok:
+    --> Download ngrok from internet.
+    --> Unzip the file and we get a exe file
+    --> Copy the .exe file and paste in the project folder
+    --> open Terminal and go to the project folder
+    --> Copy the below comand and paste in terminal and press Enter
+            ./ngrok http 5000
+        This basically creates a tunnel which allows local host to be connected to internet and 
+        generates a url which can allow anayone to acees local host.
+        The abaove command uses port 5000
+
+bot.py:
+    This is our main bot file.
+    We define this ngork settings as follow
+        ---> if __name__ == '__main__':
+                >> run(host='localhost', port=5000, debug=True)
+    
