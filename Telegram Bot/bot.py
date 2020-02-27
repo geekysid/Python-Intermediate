@@ -25,4 +25,3 @@ if __name__ == '__main__':
 
 
 # ./ngrok http 5000
-# enter the url in browser to set the webhook --> api.telegram.org/bot950769578:AAF5ood8h01h1ReZ89C9Ckfw4YkNoPaNoWc/setWebHook?url=http://04215178.ngrok.io

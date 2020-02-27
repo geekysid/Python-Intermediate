@@ -1,5 +1,5 @@
 import requests
-from config import TELEGRAM_SEND_MESSAGE_URL
+from config_data import TELEGRAM_SEND_MESSAGE_URL
 
 class TelegramBot:
 
@@ -51,7 +51,7 @@ class TelegramBot:
         if len(self.incoming_message_text) > 0:
             # evaluating condition if the message sent to bot is a command
             if self.incoming_message_text[0] == '/':
-                self.command_reply(self.incoming_message_text)
+                self.command_reply()
                 success = self.send_message()
             else:
                 success = True
@@ -61,20 +61,23 @@ class TelegramBot:
         return success
 
 
-    def command_reply(self, message):
+    def command_reply(self):
         """
             Generating reply depending on the message received
-
-            Args:
-                message:str: message received from telegram
         """
 
-        if len(message) > 0:
-            message = message.split(' ')
+        if len(self.incoming_message_text) > 0:
+            message = self.incoming_message_text.split(' ')
 
-            if message[0] == '/Hello':
+            if message[0] == '/hello':
                 self.outgoing_message_text = 'Hey mate... Nice to see you...'
-                print(self.outgoing_message_text)
+            elif message[0] == '/help':
+                self.outgoing_message_text = ''\
+                        '**Price of Coin**:\n/p coinSymbol currency\nEx: /p BTC INR'\
+                        '\n\n'\
+                        '**Market Cap of Coin**:\n/mc coinSymbol\nEx: /mc BTC'
+            else:
+                self.outgoing_message_text = 'Buddy thats not a valid command... Type /help to know all the services I provide..'
 
 
     def send_message(self):
@@ -84,6 +87,6 @@ class TelegramBot:
                 True of message successfully sent else false
         """
 
-        resp = requests.get(config.TELEGRAM_SEND_MESSAGE_URL.format(self.chat_id, self.outgoing_message_text))
+        resp = requests.get(TELEGRAM_SEND_MESSAGE_URL.format(self.chat_id, self.outgoing_message_text))
 
         return True if resp.status_code == 200 else False
