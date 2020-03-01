@@ -3,6 +3,7 @@ from Telegram_Bot import TelegramBot
 
 @post('/')  # our python function based endpoint
 def main():
+    # print('Hello')
     data = bottle_request.json  # extract all request data
     
     tgb = TelegramBot()
@@ -10,11 +11,6 @@ def main():
     tgb.convert_webhook_data(data)
     
     tgb.message_generator()
-    
-
-    # print('Hello')
-    # print(data)
-
 
     return
 
